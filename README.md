@@ -15,7 +15,7 @@ Atividade 8 - Desenvonver um cronômetro onde o usuário define quantos segundos
 - [x]Atividade 4
 - [x]Atividade 5
 - [x]Atividade 6
-- [x] Atividade 8
+- [x]Atividade 8
 ## Backlog
 - [] Outras atividades(s)
  
