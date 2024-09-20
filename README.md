@@ -10,12 +10,12 @@ Atividade 6 - Criar uma calculadora de IMC para o usuário inserir o peso e altu
 Atividade 8 - Desenvonver um cronômetro onde o usuário define quantos segundos o cronômetro deverá rodar.
 
 ## Etapas implementadas
-- [x]Atividade 1
-- [x]Atividade 3
-- [x]Atividade 4
-- [x]Atividade 5
-- [x]Atividade 6
-- [x]Atividade 8
+- Atividade 1
+- Atividade 3
+- Atividade 4
+- Atividade 5
+- Atividade 6
+- Atividade 8
 ## Backlog
 - [] Outras atividades(s)
  
