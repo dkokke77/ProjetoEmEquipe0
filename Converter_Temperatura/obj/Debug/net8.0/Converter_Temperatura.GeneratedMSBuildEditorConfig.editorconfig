@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Converter_Temperatura
-build_property.ProjectDir = C:\Users\WIN10\Documents\matheus\ProjetoEmEquipe\Converter_Temperatura\
+build_property.ProjectDir = C:\Users\WIN10\Documents\kauan\ProjetoEmEquipe\Converter_Temperatura\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

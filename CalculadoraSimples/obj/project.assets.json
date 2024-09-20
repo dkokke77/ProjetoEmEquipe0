@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\Cronometro\\Cronometro.csproj",
-      "projectName": "Cronometro",
-      "projectPath": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\Cronometro\\Cronometro.csproj",
+      "projectUniqueName": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\CalculadoraSimples\\CalculadoraSimples.csproj",
+      "projectName": "CalculadoraSimples",
+      "projectPath": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\CalculadoraSimples\\CalculadoraSimples.csproj",
       "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\Cronometro\\obj\\",
+      "outputPath": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\CalculadoraSimples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config"

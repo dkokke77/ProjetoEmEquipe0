@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WIN10\\Documents\\matheus\\ProjetoEmEquipe\\Converter_Temperatura\\Converter_Temperatura.csproj",
+      "projectUniqueName": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\Converter_Temperatura\\Converter_Temperatura.csproj",
       "projectName": "Converter_Temperatura",
-      "projectPath": "C:\\Users\\WIN10\\Documents\\matheus\\ProjetoEmEquipe\\Converter_Temperatura\\Converter_Temperatura.csproj",
+      "projectPath": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\Converter_Temperatura\\Converter_Temperatura.csproj",
       "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WIN10\\Documents\\matheus\\ProjetoEmEquipe\\Converter_Temperatura\\obj\\",
+      "outputPath": "C:\\Users\\WIN10\\Documents\\kauan\\ProjetoEmEquipe\\Converter_Temperatura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config"
