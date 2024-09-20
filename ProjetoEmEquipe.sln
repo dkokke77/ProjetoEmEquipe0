@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Converter_Temperatura", "Converter_Temperatura\Converter_Temperatura.csproj", "{AD48B59F-BA51-4528-8CA2-FF52F4BC8797}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cronometro", "Cronometro\Cronometro.csproj", "{7C3E6FB2-0FD1-4462-B86E-75CE5AA2F3C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD48B59F-BA51-4528-8CA2-FF52F4BC8797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD48B59F-BA51-4528-8CA2-FF52F4BC8797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD48B59F-BA51-4528-8CA2-FF52F4BC8797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD48B59F-BA51-4528-8CA2-FF52F4BC8797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3E6FB2-0FD1-4462-B86E-75CE5AA2F3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3E6FB2-0FD1-4462-B86E-75CE5AA2F3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3E6FB2-0FD1-4462-B86E-75CE5AA2F3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3E6FB2-0FD1-4462-B86E-75CE5AA2F3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A27E244-5443-4E68-8A0E-D0F177928D36}
+	EndGlobalSection
+EndGlobal
