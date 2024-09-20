@@ -1,0 +1,5 @@
+C:\Users\WIN10\Documents\matheus\ProjetoEmEquipe\Gerador_De_Senhas\obj\Debug\net8.0\Gerador_De_Senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Documents\matheus\ProjetoEmEquipe\Gerador_De_Senhas\obj\Debug\net8.0\Gerador_De_Senhas.AssemblyInfoInputs.cache
+C:\Users\WIN10\Documents\matheus\ProjetoEmEquipe\Gerador_De_Senhas\obj\Debug\net8.0\Gerador_De_Senhas.AssemblyInfo.cs
+C:\Users\WIN10\Documents\matheus\ProjetoEmEquipe\Gerador_De_Senhas\obj\Debug\net8.0\Gerador_De_Senhas.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Documents\matheus\ProjetoEmEquipe\Gerador_De_Senhas\obj\Debug\net8.0\Gerador_De_Senhas.sourcelink.json
